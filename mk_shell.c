@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * tknize - function tokenizes string.
+ * tknize - function tokenizes a string.
  * @strng: indicates string
  * Return: array of string.
 */
