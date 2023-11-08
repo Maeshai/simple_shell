@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * mk_asctoint - function converts ascii to int
+ * mk_asctoint - function will convert ascii to int
  * @s: the string
  * Return: the int
 */
